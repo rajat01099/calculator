@@ -1,4 +1,4 @@
 # calculator
 my first git 
 <br>
-Author --- Rajar kumar
+Author --- Rajat kumar
